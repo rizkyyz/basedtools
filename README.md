@@ -1,12 +1,14 @@
 # INTELEJEN BACKDOOR
 
-MATAKULIAH PREDIKSI TAHUN DEPAN IT
+** prediksi matkul besok dan materi
 
-× SISTEM INFORMASI
-× RPL REKAYASA PERANGKAT LUNAK
-× LOGIKA INDORMATIKA
-× BAHASA INGGRIS
-× PAI
-× BAHASA PEMROGRAMAN
-× MATEMATIKA PASTI ADA NGAB
+//Berbagi materi itu indah ini semua ada di web tapi tidak semua orang tahu ngab jadi rahasiakan ini
+
+| No | PELAJARAN | MATERI  | 
+| 1. | RPL | --------- | 
+| 2. | Bahasa Inggris | --------- | 
+| 3. | SISTEM INFORMASI | --------- | 
+| 4. | Logika Informasi | --------- | 
+| 5. | KEWIRAUSAHAWAN | --------- | 
+| 6. | BENTAR KEKNYA MATEMATIKA ADA | --------- | 
 
